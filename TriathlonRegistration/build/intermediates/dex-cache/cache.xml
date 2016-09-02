@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\waiyankaung\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.1\support-annotations-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="C:\Users\waiyankaung\Desktop\TriathlonRegistration\app\build\intermediates\pre-dexed\debug\support-annotations-23.1.1_5f8e85327247710a5367475580af8971a41b9842.jar" />
+    </item>
+    <item
+        jar="C:\Users\waiyankaung\Desktop\TriathlonRegistration\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="C:\Users\waiyankaung\Desktop\TriathlonRegistration\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.1.1_62ae040d0a92d41a84d978ae6c9400c475792f0f.jar" />
+    </item>
+    <item
+        jar="C:\Users\waiyankaung\Desktop\TriathlonRegistration\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="C:\Users\waiyankaung\Desktop\TriathlonRegistration\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.1.1_b91029814a9b2dff9da506f4ee29bc7672469715.jar" />
+    </item>
+    <item
+        jar="C:\Users\waiyankaung\Desktop\TriathlonRegistration\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\libs\internal_impl-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="C:\Users\waiyankaung\Desktop\TriathlonRegistration\app\build\intermediates\pre-dexed\debug\internal_impl-23.1.1_063c8ff452c1009a2f02abe7d51e7d270c6bd1f8.jar" />
+    </item>
+
+</items>

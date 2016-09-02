@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Test project</string>
+    <string name="txtTitle">Ticket Value</string>
+    <string name="prompt">Select Group</string>
+    <string name="txtTickets">Number of Tickets</string>
+    <string name="description">Concert Image</string>
+    <string name="btnCost">FIND THE COST</string>
+    <string-array name="txtGroup">
+        <item>Life Revealed</item>
+        <item>Spatial Sense</item>
+        <item>Zig Zag</item>
+    </string-array>
+</resources>
