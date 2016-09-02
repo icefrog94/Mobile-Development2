@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Your School App</string>
+    <string name="app_title">West Rocks Middle School</string>
+    <string name="phone1">(203) 899-2970</string>
+    <string name="phone2">(203) 899-2960</string>
+    <string name="address">81 W Rocks Rd, Norwalk, CT 06851</string>
+</resources>
