@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Paint Calculator</string>
+    <string name="txtTitle">Paint Calculator</string>
+    <string name="prompt">Select Color</string>
+    <string name="txtCircumference">Length around room</string>
+    <string name="txtHeight">Height of room</string>
+    <string name="description">Paint Image</string>
+    <string name="btnGallon">CALCULATE AMOUNT</string>
+    <string-array name="txtColor">
+        <item>Red</item>
+        <item>Blue</item>
+        <item>Green</item>
+        <item>Purple</item>
+        <item>Yellow</item>
+        <item>Orange</item>
+    </string-array>
+</resources>
